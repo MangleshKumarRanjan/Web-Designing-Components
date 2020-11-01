@@ -1,0 +1,105 @@
+body
+{
+    font-family: Arial, sans-serif;
+    background-color: ;
+}
+.menu_item
+{
+    font-size: 13px;
+    color: black;
+    text-decoration: none;
+    margin-left: 8px;
+    position: relative;
+    top: -10px;
+}
+.menu_item:hover
+{
+    text-decoration: underline;
+}
+.gicon1
+{
+    width: 17px;
+    height: 17px;
+    position: relative;
+    top: -7px;
+    margin-left: 15px;
+}
+.gicon2
+{
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: -6px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+nav
+{
+    text-align: right;
+    position: relative;
+    top: 10px;
+}
+.glogo
+{
+    width: 240px;
+    height: 80x;
+}
+section
+{
+    text-align: center;
+    padding-top: 8%;
+}
+#searchbox
+{
+    width: 400px;
+    font-size: 13px;
+    height: 10px;
+    color: #222;
+    border: 1px solid #dfe1e5;
+    padding: 14px;
+    border-radius: 24px;
+    text-align: center;
+    margin-left: 50px;
+    outline: none;
+}
+#searchbox:hover
+{
+    background-image: linear-gradient(top,#f8f8f8,#c6c6c6);
+    border: 2px, #f1f1f1;
+    box-shadow: 0px 0px 3px  rgb(107, 105, 105);
+    color: #222;
+}
+
+#voicesearch
+{
+    width: 22px;
+    height: 22px;
+    position: relative;
+    left: -40px;
+    top: 6px;
+}
+#searchicon
+{
+    width: 18px;
+    height: 18px;
+    position: relative;
+    left: -450px;
+    top: 6px;
+    opacity: 50%;
+}
+.custombtn
+{
+    height: 33px;
+    border: none;
+    opacity: 75%;
+    border-radius: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.custombtn:hover
+{
+    background-image: linear-gradient(top,#f8f8f8,#c6c6c6);
+    border: 2px, #f1f1f1;
+    box-shadow: 0px 0px 2px  black;
+    color: #222;
+}
