@@ -1,0 +1,49 @@
+body
+{
+    background-color: rgb(241, 248, 252);
+}
+.mainDiv
+{
+    background-color: white;
+    width: 50%;
+    height: 100%;
+    margin-left: 25%;
+    padding-top: 30px;
+    padding-bottom: 1px;
+    
+}
+#txt1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+form
+{
+    padding-left: 80px;
+    padding-top: 80px;
+    padding-right: 80px;
+    padding-bottom: 20px;
+}
+input
+{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 100%;
+    opacity: 50%;
+    outline: none;
+}
+button
+{
+    position: relative;
+    margin-left: 40%;
+    background-color: rgb(78, 49, 240);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: none;
+}
